@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sapna-Mathur
+- 👋 Hi, I’m Sapna
 - 💼 I’m currently working as a NOC Engineer
 - 🧐 I’m open to learn new experiences and learning new skills and information
 - 📫 How to reach me - sapnamathur279@gmail.com
