@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sapna-Mathur
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Machine Learning Projects
+- 💼 I’m currently working as a NOC Engineer
+- 🧐 I’m open to learn new experiences and learning new skills and information
 - 📫 How to reach me - sapnamathur279@gmail.com
 
 <!---
